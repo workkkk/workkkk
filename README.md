@@ -14,6 +14,6 @@
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=LitRHap&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=LitRHap&layout=compact&theme=nightowl)
+![github stats](https://github-readme-stats.vercel.app/api?username=man-x199&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=man-x199&layout=compact&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=man-x199&repo=PudidiXBOT&theme=dark)
