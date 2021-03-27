@@ -5,7 +5,7 @@
 :page_with_curl: I'm currently learning:
 
 |No|List|Skill|
-|--|----|
+|--|----|-----|
 |1 |Javascript |77% |
 |2 |HTML |43% |
 |3 |Python |17% |
