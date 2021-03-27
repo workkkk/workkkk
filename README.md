@@ -4,11 +4,11 @@
 
 :page_with_curl: I'm currently learning:
 
-|No|List|
+|No|List|Skill|
 |--|----|
-|1 |Javascript |
-|2 |HTML |
-|3 |Python |
+|1 |Javascript |77% |
+|2 |HTML |43% |
+|3 |Python |17% |
 ---
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
